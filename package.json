@@ -1,0 +1,14 @@
+{
+  "name": "async-programming",
+  "version": "1.0.0",
+  "description": "Implementing various asynchronous programming operations",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server"
+  },
+  "author": "Uwem Akpan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
